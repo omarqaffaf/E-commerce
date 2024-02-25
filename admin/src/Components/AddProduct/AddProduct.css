@@ -1,0 +1,14 @@
+.add-product{
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 800px;
+    padding:30px 50px;
+    margin:20px 30px;
+    border-radius:6px ;
+    background: rgb(237, 211, 176);
+}
+.add-product p{
+    font-size: 20px;
+    color:rgb(255, 138, 60);
+    font-weight: 600;
+}
